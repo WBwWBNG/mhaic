@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555620277 source:/home/eduardo/Code Blocks Source Code/mhaic/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<string.h>
+
